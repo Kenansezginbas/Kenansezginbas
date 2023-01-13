@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenansezginbas
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning RN
 - 📫 How to reach me @kenansezginbas
 
 <!---
